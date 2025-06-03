@@ -29,14 +29,3 @@ pesoUrano = massa * 8.87
 			caso 6: escreva ("\nO seu peso em Saturno é ",(pesoSaturno), "N\nLembrando que o peso é medido em N, diferente da massa, medida em Kg\n")pare
 			caso 7: escreva ("\nO seu peso em Urano é ",(pesoUrano), "N\nLembrando que o peso é medido em N, diferente da massa, medida em Kg\n")pare
 			caso contrario: escreva ("\nOpção inválida!=!\n")}} enquanto (planeta != 0)}}
-/* $$$ Portugol Studio $$$ 
- * 
- * Esta seção do arquivo guarda informações do Portugol Studio.
- * Você pode apagá-la se estiver utilizando outro editor.
- * 
- * @POSICAO-CURSOR = 656; 
- * @PONTOS-DE-PARADA = ;
- * @SIMBOLOS-INSPECIONADOS = ;
- * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
- * @FILTRO-ARVORE-TIPOS-DE-SIMBOLO = variavel, vetor, matriz, funcao;
- */
