@@ -1,40 +1,101 @@
-README for LogicaDaProgramacao
-Overview
-Este repositório contém uma coleção de atividades e exercícios desenvolvidos durante a Unidade Curricular (UC) de Lógica da Programação, com foco em conceitos fundamentais de programação. O objetivo é proporcionar um ambiente de aprendizado prático, onde os alunos podem aplicar a lógica de programação em diferentes linguagens, como Java e Portugol, além de utilizar fluxogramas para representar visualmente a lógica dos algoritmos.
+# LogicaDaProgramacao
 
-Os arquivos contidos neste repositório abrangem uma variedade de tópicos, incluindo:
+> **Repositório de Atividades e Exercícios da UC Lógica da Programação**
 
-Estruturas de Controle: Laços de repetição (for, while, do-while) e estruturas condicionais (if, switch).
-Estruturas de Dados: Manipulação de arrays e listas, incluindo operações como inserção, remoção e busca.
-Algoritmos: Implementação de algoritmos clássicos, como ordenação e busca, utilizando diferentes abordagens.
-Fluxogramas: Representações gráficas de algoritmos, facilitando a compreensão da lógica por trás das soluções.
-Estrutura do Repositório
-O repositório é organizado em diretórios que contêm arquivos de diferentes tipos, cada um focando em um aspecto específico da lógica de programação:
+Bem-vindo(a) ao repositório **LogicaDaProgramacao**! Aqui você encontrará uma coleção de atividades, exercícios e anotações desenvolvidas durante a Unidade Curricular (UC) de Lógica da Programação, abordando conceitos fundamentais de programação em diferentes linguagens e abordagens.
 
-Fluxogramas/:
+---
 
-Contém arquivos de imagem (PNG) que representam fluxogramas de diversas atividades. Os fluxogramas ajudam a visualizar a lógica dos algoritmos e a sequência de operações a serem realizadas.
-Exemplos de fluxogramas incluem:
-Prova Carlos Eduardo Braga.png: Fluxograma de uma prova específica.
-Recuperação fluxograma.png: Fluxograma que ilustra o processo de recuperação de notas.
-fluxograma1.png, fluxograma2.png, fluxograma3.png: Diversos fluxogramas que representam diferentes algoritmos e processos.
-Java/:
+## ✨ **Visão Geral**
 
-Inclui arquivos Java que contêm anotações e atividades práticas. Os arquivos são organizados em subdiretórios, cada um focando em um tema específico.
-Arrays/:
-Contém anotações e exercícios sobre arrays, incluindo operações como:
-Anotacoes1.java: Introdução a arrays e suas operações básicas.
-Atividade1.java: Exercícios práticos sobre manipulação de arrays.
-Estruturas de repetição/:
-Contém anotações e atividades relacionadas a laços de repetição, como:
-Anotacoes1.java: Explicação sobre laços de repetição (for, while, do-while).
-Atividade1.java: Exercícios práticos que envolvem a utilização de laços para resolver problemas.
-Operadores lógicos/:
-Contém atividades que exploram operadores lógicos e suas aplicações em estruturas condicionais.
-Portugol/:
+Este projeto tem como objetivo proporcionar um ambiente de aprendizado prático, onde os alunos podem:
 
-Contém arquivos em Portugol, uma linguagem de pseudocódigo que facilita a compreensão da lógica de programação.
-Exemplos de arquivos incluem:
-aula 1/: Atividades que abordam conceitos básicos, como aprovação, conversão de temperaturas e cálculo de médias.
-aula 2/: Exercícios que envolvem estruturas condicionais e laços de repetição, como o jogo de pedra, papel e tesoura.
-aula 3/: Atividades que exploram conceitos mais avançados, como cálculo de descontos e faixa etária.
+- Aplicar lógica de programação em **Java** e **Portugol**
+- Criar e interpretar **fluxogramas**
+- Praticar **estruturas de controle**, **estruturas de dados** e **algoritmos clássicos**
+
+---
+
+## 🗂️ **Estrutura do Repositório**
+
+A organização dos arquivos facilita a navegação entre os principais temas abordados:
+
+<details>
+<summary><strong>Fluxogramas/</strong></summary>
+
+Contém arquivos de imagem (`.png`) que representam fluxogramas de diversas atividades. Os fluxogramas ajudam a **visualizar a lógica dos algoritmos** e a sequência de operações a serem realizadas.
+
+**Exemplos:**
+- `Prova Carlos Eduardo Braga.png`: Fluxograma de uma prova específica.
+- `Recuperação fluxograma.png`: Processo de recuperação de notas.
+- `fluxograma1.png`, `fluxograma2.png`, `fluxograma3.png`: Diversos algoritmos e processos.
+
+</details>
+
+<details>
+<summary><strong>Java/</strong></summary>
+
+Inclui arquivos Java organizados em subdiretórios, cada um abordando um tema específico:
+
+- **Arrays/**  
+  - `Anotacoes1.java`: Introdução a arrays e operações básicas.
+  - `Atividade1.java`: Exercícios práticos de manipulação de arrays.
+
+- **Estruturas de Repetição/**  
+  - `Anotacoes1.java`: Explicação sobre laços de repetição (`for`, `while`, `do-while`).
+  - `Atividade1.java`: Exercícios práticos utilizando laços.
+
+- **Operadores lógicos/**  
+  - Atividades explorando operadores lógicos em estruturas condicionais.
+
+</details>
+
+<details>
+<summary><strong>Portugol/</strong></summary>
+
+Contém arquivos em **Portugol**, uma linguagem de pseudocódigo que facilita a compreensão da lógica.
+
+- **aula 1/**: Atividades de conceitos básicos (aprovação, conversão de temperaturas, médias).
+- **aula 2/**: Exercícios sobre estruturas condicionais e laços (ex: pedra, papel e tesoura).
+- **aula 3/**: Atividades de conceitos mais avançados (cálculo de descontos, faixa etária).
+
+</details>
+
+---
+
+## 📚 **Tópicos Abordados**
+
+- **Estruturas de Controle**  
+  Laços de repetição (`for`, `while`, `do-while`) e estruturas condicionais (`if`, `switch`).
+
+- **Estruturas de Dados**  
+  Manipulação de arrays e listas: inserção, remoção e busca.
+
+- **Algoritmos Clássicos**  
+  Implementação de algoritmos de ordenação, busca, entre outros.
+
+- **Fluxogramas**  
+  Representação gráfica da lógica dos algoritmos.
+
+---
+
+## 🚀 **Como Utilizar**
+
+1. **Explore os diretórios** de acordo com o tema desejado.
+2. **Leia as anotações** para entender a teoria.
+3. **Implemente e teste** os exercícios práticos propostos.
+4. **Visualize os fluxogramas** para reforçar o entendimento da lógica.
+
+---
+
+## 💡 **Contribuição**
+
+Sinta-se à vontade para sugerir melhorias, adicionar exercícios ou compartilhar suas soluções através de *pull requests*.
+
+---
+
+## 👨‍🏫 **Sobre**
+
+Este repositório foi desenvolvido durante a disciplina de Lógica da Programação, promovendo o aprendizado ativo e prático dos principais fundamentos para quem está iniciando na área de programação.
+
+---
