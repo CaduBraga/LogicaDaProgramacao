@@ -1,0 +1,187 @@
+# Arquivos de sistema
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs
+*.log
+*.log.*
+
+# Arquivos temporários
+*.tmp
+*.swp
+*.swo
+*~
+
+# Pastas de IDE
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+.eclipse/
+.metadata/
+
+# Cache e arquivos de build
+.cache/
+build/
+dist/
+bin/
+out/
+target/
+
+# Java específico
+*.class
+*.jar
+*.war
+*.ear
+*.jpi
+*.jsp
+*.jspf
+*.jspx
+*.java~
+*.java.bak
+*.java.orig
+*.java.rej
+*.java.swp
+*.java.swo
+*.java.tmp
+*.java.temp
+
+# Portugol específico
+*.por~
+*.por.bak
+*.por.orig
+*.por.rej
+*.por.swp
+*.por.swo
+*.por.tmp
+*.por.temp
+
+# Arquivos de configuração sensíveis
+config.properties
+secrets.properties
+credentials.properties
+database.properties
+application.properties
+application.yml
+application.yaml
+
+# Arquivos de dados
+*.csv
+*.dat
+*.txt
+!libraries.txt
+!dependencies.txt
+!requirements.txt
+
+# Imagens e mídia (opcional - descomente se não quiser versionar)
+# *.jpg
+# *.jpeg
+# *.png
+# *.gif
+# *.mp4
+# *.avi
+
+# Arquivos de backup
+*.bak
+*.backup
+*_backup.*
+*.old
+*.orig
+
+# Arquivos de teste
+test_*
+*_test.*
+*Test.java
+*Test.por
+
+# Arquivos de debug
+debug_*
+*_debug.*
+*.debug
+
+# Arquivos de simulação
+simulation_*
+*_sim.*
+
+# Arquivos de documentação temporários
+*.tmp.md
+*.draft.md
+*.temp.md
+
+# Arquivos de projeto específicos
+.project
+.classpath
+.settings/
+*.project
+*.classpath
+
+# Arquivos de dependências
+node_modules/
+vendor/
+lib/
+libs/
+
+# Arquivos de configuração de IDE
+*.iml
+*.ipr
+*.iws
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Arquivos de controle de versão
+.svn/
+CVS/
+RCS/
+SCCS/
+
+# Arquivos de sistema operacional
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Arquivos de log
+*.log
+*.log.*
+*.out
+*.err
+
+# Arquivos temporários do sistema
+*.tmp
+*.temp
+*.swp
+*.swo
+*~
+
+# Arquivos de compilação
+*.o
+*.obj
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Arquivos de empacotamento
+*.zip
+*.tar
+*.tar.gz
+*.rar
+*.7z
+
+# Arquivos de configuração local
+.env
+.env.local
+.env.development
+.env.test
+.env.production
+
+# Arquivos de cache
+.cache/
+.temp/
+.tmp/ 
